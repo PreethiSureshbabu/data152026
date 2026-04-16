@@ -1,9 +1,3 @@
-/************* The Complete Oracle SQL Bootcamp ****************
- * Author  : Oracle Master Training                            *
- * Course  : The Complete Oracle SQL Bootcamp                  *
- * Lecture : COMMIT and ROLLBACK Statements                    *
- ***************************************************************/
-
 SELECT * FROM employees_copy;
 DELETE employees_copy WHERE job_id = 'SA_REP';
 ROLLBACK;
