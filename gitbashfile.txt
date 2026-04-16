@@ -1,0 +1,1 @@
+This file was created and content put in through cat > gitbash.txt command and had to press ctrl+z to exit the cursor mode.
